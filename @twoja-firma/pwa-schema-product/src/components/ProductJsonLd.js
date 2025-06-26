@@ -1,4 +1,3 @@
-import React from 'react';
 import getProductJsonLd from '../utils/getProductJsonLd';
 
 const ProductJsonLd = ({ product }) => {

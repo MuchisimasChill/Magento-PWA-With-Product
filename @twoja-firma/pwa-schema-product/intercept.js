@@ -11,7 +11,7 @@ module.exports = targets => {
     );
 
     productComponent.insertAfterSource(
-        '<section className={classes.root}>',
+        '<Form className={classes.root}',
         `<${ProductJsonLd} product={product} />`
     );
 };
