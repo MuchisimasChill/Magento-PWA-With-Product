@@ -1,0 +1,6 @@
+{
+  "name": "@twoja-firma/pwa-schema-product",
+  "version": "1.0.0",
+  "main": "src/components/ProductJsonLd.js",
+  "license": "MIT"
+}
